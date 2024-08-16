@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008134080294",
+    "project_id": "arrive-b3b7a",
+    "storage_bucket": "arrive-b3b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008134080294:android:428de16161019e4f7fa3e7",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5btmBP6hslrMKmfQcfXsTz1zdKrqsZps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
